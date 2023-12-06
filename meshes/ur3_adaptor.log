@@ -1,0 +1,91 @@
+System Name        : Windows_NT
+Machine Name       : DESKTOP-TVLLOE2
+User Name          : USER
+Source System      : GENERIC
+Destination System : STEP
+Start Time         : Thu Dec 07 01:50:13 2023
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : PropagateColDownwards : true
+Message : TranslateAttributes : true
+Message : TranslateSheetBodies : true
+Message : TranslateSolidAsSolid : true
+Message : Step.Brep.TranslateSolidAsClassIV : false
+Message : Step.Brep.TranslateSolidAsClassIISurface : false
+Message : Step.Brep.TranslateSolidAsClassIIWires : false
+Message : Step.Brep.WriteSolidClass3 : false
+Message : Step.Brep.ConvTrimToClassIVFaces : true
+Message : Step.Brep.ConvTrimToClassIIFacLOG: Conversion: Begin
+LOG: Conversion: End
+Info: 
+Info: Translation succeeded
+Info: Number of bodies in the Step file: 1
+Info: =================================================
+Info: 
+Info:     ========================
+Info:           Stop_Modeler
+ : Step.Brep.TranslateAsAp214Format : false
+Message : Step.Brep.WriteAssemAsCtxtDepShapeRep : false
+Message : ClassVIAsTrimStitch : false
+Message : Step.Brep.ProductDefBasedRead : true
+Message : SewFaces : true
+Message : Step.Brep.TranslateClassIVFaces : true
+Message : Step.Brep.TranslateClassIIFaces : true
+Message : Step.Brep.TranslateClassIIIWires : true
+Message : Step.Brep.ReadProduct1stField : true
+Message : Step.Brep.TranslateClassVFacetedSolid : true
+Message : Step.Brep.TranslateClassVISolid : true
+Message : Step.Brep.TranslateClassIIWires : true
+Message : TranslateProductIdAttributes : false
+Message : SetStringentCheckOption : true
+Message : RollbackSewOnError : true
+Message : Step.Brep.InterpretAngleAsDegree : true
+Message : Step.Brep.OverrideFaceColorWithBodyColor : false
+Message : FixFaceFaceInconsistency : true
+Message : TranslateFreePoints : true
+Message : TranslateLayersAndFilters : false
+Message : Step.AuthorName : Unknown
+Message : Step.OrganizationName : Unknown
+Message : Step.Authorization :   
+Message : Step.ProgramName : Unknown
+Message : Step.DateTimeStamp : Unknown
+Message : Step.ObjectId :   
+Message : Step.FileDescription : Unknown
+Message : Step.ImplementationLevel : 1
+Message : Step.SchemaName : CONFIG_CONTROL_DESIGN
+Message : Step.PreProcessorVersion : XStep 1.0
+Message : Step.Brep.WriteLengthUnit : 0
+Message : NameAttribTransf : true
+Message : Representation : BRep+OldAssembly
+Message : ===========================
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start Assembly
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End Assembly
+Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-------------------------------Conversion Summary-------------------------------
+No. of Assemblies                         :    0
+No. of Solid Bodies                       :    1
+No. of Trim Bodies                        :    0
+No. of Wire Bodies                        :    0
+No. of Point Bodies                       :    0
+No. of Geometric Sets   :   0
+No. of Curve     Sets   :   0
+Warning : Writing color attributes requested. Hence switching to STEP AP214
+
+--------------------------------------------------------------------------------
+Finish Time : Thu Dec 07 01:50:13 2023
+
+Translation Result : Success
+--------------------------------------------------------------------------------
